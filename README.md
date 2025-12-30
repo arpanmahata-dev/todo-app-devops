@@ -40,7 +40,7 @@ A full-stack todo application with automated CI/CD pipeline demonstrating DevOps
 ### Local Development
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/todo-app-devops.git
+git clone https://github.com/arpanmahata-dev/todo-app-devops.git
 cd todo-app-devops
 
 # Run with Docker Compose
