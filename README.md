@@ -74,7 +74,7 @@ The pipeline automatically:
 
 ## 🔗 Live Demo
 
-Access the application at: `http://YOUR_EC2_IP:5000`
+Access the application at: `http://15.206.170.73:5000`
 
 ## 👨‍💻 Author
 
