@@ -1,6 +1,6 @@
 # DevOps Todo Application
 
-A full-stack todo application with automated CI/CD pipeline demonstrating DevOps best practices.
+A full-stack todo application with an automated CI/CD pipeline demonstrating DevOps best practices.
 
 ## 🚀 Features
 
@@ -62,7 +62,7 @@ python app.py
    terraform apply
 ```
 4. Set up GitHub secrets
-5. Push to main branch to trigger deployment
+5. Push to the main branch to trigger deployment
 
 ## 📊 CI/CD Pipeline
 
@@ -70,11 +70,11 @@ The pipeline automatically:
 1. Runs tests on every push
 2. Builds Docker image on main branch
 3. Pushes image to Docker Hub
-4. Deploys to EC2 instance
+4. Deploys to an EC2 instance
 
 ## 🔗 Live Demo
 
-Access the application at: `http://YOUR_EC2_IP:5000`
+Access the application at: `http://15.206.170.73:5000`
 
 ## 👨‍💻 Author
 
