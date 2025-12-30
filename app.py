@@ -31,7 +31,7 @@ def add_todo():
     task = request.form['task'].strip()
     priority = request.form.get('priority', 'medium')
     
-    if task:
+  #  if task:
         todo = {
             'id': max([t['id'] for t in todos], default=0) + 1,
             'task': task,
